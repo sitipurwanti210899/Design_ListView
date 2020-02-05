@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Design_ListView</string>
+    <string name="name">Bubur Kacang Ijo</string>
+    <string name="desc">Deskripsi</string>
+    <string name="more">more</string>
+    <string name="hari">Today, Thrusday</string>
+    <string name="search">Search</string>
+    <string-array name="name">
+        <item>Soto</item>
+        <item>Bakso</item>
+        <item>Sate</item>
+        <item>Mie Ayam</item>
+        <item>Ayam Bakar</item>
+        <item>Nasi Goreng</item>
+        <item>Pizza</item>
+        <item>Opor</item>
+        <item>Balado</item>
+        <item>Seblak</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning ini dikarenakan oleh kunyit yang digunakan sebagai bumbu. Soto ayam banyak ditemukan di daerah-daerah di Indonesia dan Singapura</item>
+        <item>Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, akan tetapi ada juga bakso yang terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau.</item>
+        <item>Sate adalah hidangan yang populer di Thailand. Biasanya dihidangkan dengan saus kacang, sate Thailand memiliki beberapa variasi, misalnya sate ayam, sapi, babi, hingga sate vegetarian yang terbuat dari lembar protein kedelai atau tahu</item>
+        <item>Mi ayam atau bakmi ayam adalah masakan Indonesia yang terbuat dari mi kuning direbus mendidih kemudian ditaburi saos kecap khusus beserta daging ayam dan sayuran. Mi Ayam terkadang ditambahi dengan bakso, pangsit dan jamur.</item>
+        <item>Ayam goreng adalah hidangan yang dibuat dari daging ayam dicampur tepung bumbu yang digoreng dalam minyak goreng panas. Beberapa rumah makan siap saji secara khusus menghidangkan ayam goreng, misalnya Kentucky Fried Chicken</item>
+        <item>Nasi goreng adalah sebuah versi Indonesia dan Melayu dari nasi goreng, perbedaan utama dibanding dengan nasi goreng di wilayah lainnya adalah makanan tersebut dimasak memakai kecap manis. </item>
+        <item>Piza (atau pizza) adalah hidangan gurih dari Italia sejenis roti bundar dan pipih, yang dipanggang di oven dan biasanya dilumuri saus tomat serta keju dengan bahan makanan tambahan lainnya yang bisa dipilih. Keju yang dipakai biasanya mozzarella atau "keju pizza"</item>
+        <item>Opor ayam merupakan masakan yang sangat dikenal di Indonesia. Masakan ini telah dikenal luas di daerah lain. Bahkan hampir ke seluruh wilayah Indonesia. Opor ayam sebenarnya adalah ayam rebus yang diberi bumbu kental dari santan yang ditambah berbagai bumbu</item>
+        <item>Balado adalah teknik memasak khas Minangkabau dengan cara menumis cabe giling dengan berbagai rempah, biasanya bawang merah, bawang putih, jeruk nipis.Berbeda dengan sambal lain yang hanya menggunakan cabe giling</item>
+        <item>Seblak adalah makanan indonesia yang bercitarasa gurih dan pedas, yang terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, dan bahan protein lainnya yang dimasak dengan bumbu tertentu. Seblak adalah makanan Khas Bandung</item>
+    </string-array>
+    <string-array name="img">
+        <item>@drawable/soto</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/mie</item>
+        <item>@drawable/ayam_bakar</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/opor</item>
+        <item>@drawable/balado</item>
+        <item>@drawable/seblak</item>
+    </string-array>
+
+</resources>
